@@ -1,7 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&section=header">
 
 <br>
-<br>
 
 <div align="center">
   <img
@@ -27,7 +26,6 @@
   />
   </div>
 
-<br>
 <br>
   
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=000000&section=footer">
